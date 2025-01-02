@@ -5,11 +5,10 @@ export const About = () => {
         <div className="max-w-3xl mx-auto text-center">
           <h2 className="text-3xl font-bold mb-6">Sobre a Dra. Giselda Santos</h2>
           <p className="text-gray-600 mb-8">
-            Veterinária dedicada com anos de experiência em atendimento domiciliar,
-            a Dra. Giselda Santos traz conforto e cuidado profissional diretamente
-            até seu pet. Com um atendimento personalizado e humanizado, garantimos
-            o bem-estar do seu animal de estimação no ambiente onde ele se sente
-            mais seguro: sua casa.
+           Dra. Giselda Santos Souza, formada em Medicina Veterinária pela FMU, 
+           cuida do seu pet com carinho, atenção e dedicação desde 2022.
+           Sempre em busca de atualizações e aprimoramentos, ela oferece um atendimento responsável e de alta qualidade, porque seu pet merece o melhor cuidado. 
+           Com ela, seu amigo de quatro patas está sempre em boas mãos!
           </p>
         </div>
       </div>
